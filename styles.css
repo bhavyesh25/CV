@@ -1,0 +1,178 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: #111;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    font-size: 72px;
+    background: rgb(34,195,109);
+    background: linear-gradient(0deg, rgba(34,195,109,1) 0%, rgba(45,249,253,1) 100%); 
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5rem;
+    background: linear-gradient(
+271deg,#a0e9ff 30%,#a162e8 50%,#f093b0 70%,#edca85 94%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+h3{
+    font-family: 'Open Sans', sans-serif;
+    background: linear-gradient(
+271deg,#a0e9ff 30%,#a162e8 50%,#f093b0 70%,#edca85 94%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    font-size: 1.1em
+}
+a{
+    color: #11999E;
+    text-decoration: none;
+}
+.top-container{
+    text-align: left;
+    height: 600px;
+    padding-left: 100px;
+    padding-top: 120px;
+}
+.pro{
+    text-decoration: underline;
+}
+.skateboard{
+    height: 300px;
+    width: 400px;
+    border-radius: 20%;
+}
+.bhavyesh-image{
+    width: 200px;
+}
+.skills-image1{
+    width: 25%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+}
+.skills-image2{
+    width: 25%;
+    border-radius: 50%;
+    float: right;
+    margin-left: 30px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.header-links{
+    display: inline-block;
+}
+.topnav{
+    text-align: left;
+    background-color: #111;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.topnav a{
+    padding: 14px 16px;
+    color: white;
+    font-size: 1.1em;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.topnav a:hover{
+    color: cyan;
+}
+
+.image-1{
+    float: right;
+    border-radius: 20%;
+    height: 500px;
+    position: absolute;
+    right: 180px;
+    bottom: 150px;
+    top: 105px;
+}
+.intro{
+    margin-top: 0;
+}
+.skills{
+    margin-top: 0;
+}
+.contact-me{
+    padding-top: 80px;
+}
+.front-end{
+    margin: 0;
+}
+.copyright{
+    color: rgb(29, 29, 29);
+}
+.btn {
+    background: #2DF9FD;
+    background-image: -webkit-linear-gradient(top, #2DF9FD, #22C36D);
+    background-image: -moz-linear-gradient(top, #2DF9FD, #22C36D);
+    background-image: -ms-linear-gradient(top, #2DF9FD, #22C36D);
+    background-image: -o-linear-gradient(top, #2DF9FD, #22C36D);
+    background-image: -webkit-gradient(to bottom, #2DF9FD, #22C36D);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    height: 0;
+    line-height: 0;
+    color: #FFFFFF;
+    font-family: Helvetica;
+    width: 141px;
+    font-size: 16px;
+    font-weight: 100;
+    padding: 17px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 10px;
+ }
+ 
+ .btn:hover {
+    border: solid #337FED 1px;
+    background: #47ECEE;
+    background-image: -webkit-linear-gradient(top, #47ECEE, #7FC19E);
+    background-image: -moz-linear-gradient(top, #47ECEE, #7FC19E);
+    background-image: -ms-linear-gradient(top, #47ECEE, #7FC19E);
+    background-image: -o-linear-gradient(top, #47ECEE, #7FC19E);
+    background-image: -webkit-gradient(to bottom, #47ECEE, #7FC19E);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+ .linkedIn{
+     height: 22px;
+     padding-left: 980px;
+     padding-right: 20px;
+ }
+ .twitter{
+     height: 22px;
+     padding-right: 20px;
+ }
+ .instagram{
+     height: 22px;
+     padding-right: 20px;
+ }
+ .facebook{
+     height: 22px;
+ }

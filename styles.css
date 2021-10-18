@@ -40,8 +40,8 @@ a{
 .top-container{
     text-align: left;
     height: 600px;
-    padding-left: 100px;
-    padding-top: 120px;
+    padding-left: 5%;
+    padding-top: 8%;
 }
 .pro{
     text-decoration: underline;
@@ -96,11 +96,10 @@ a{
 .image-1{
     float: right;
     border-radius: 20%;
-    height: 500px;
+    height: 75%;
     position: absolute;
-    right: 180px;
-    bottom: 150px;
-    top: 105px;
+    right: 12%;
+    top: 13%;
 }
 .intro{
     margin-top: 0;
@@ -161,18 +160,17 @@ a{
     text-decoration: none;
  }
  .linkedIn{
-     height: 22px;
-     padding-left: 980px;
+     padding-left: 65%;
      padding-right: 20px;
  }
  .twitter{
-     height: 22px;
+     height: 10%;
      padding-right: 20px;
  }
  .instagram{
-     height: 22px;
+     height: 10%;
      padding-right: 20px;
  }
  .facebook{
-     height: 22px;
+     height: 10%;
  }
